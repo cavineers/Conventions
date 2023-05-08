@@ -38,7 +38,7 @@ public void setState(SwerveModuleState state) {
 
 Or for a variable that represents the state of a swerve module:
 
-'''java
+'''
 private SwerveModuleState state;
 '''
 
