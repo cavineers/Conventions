@@ -4,5 +4,6 @@ This repository holds the conventional practices that our team must reference wh
 
 ## Table of Contents
 
-[Conventional Commits](https://github.com/cavineers/Conventions/blob/development/ConventionalCommits.md)
-[Variable Naming](https://github.com/cavineers/Conventions/blob/development/VariableNaming.md)
+[ConventionalCommits](https://github.com/cavineers/Conventions/blob/development/ConventionalCommits.md)
+
+[VariableNaming](https://github.com/cavineers/Conventions/blob/development/VariableNaming.md)
