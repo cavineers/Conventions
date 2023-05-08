@@ -1,13 +1,16 @@
 # Conventional Commits
-Below is a table displaying the correct commit type depending on the type of commit. Include the commit type at the beginning of each commit description.
 
-Purpose of Commit | Commit Type
---- | ---
-To add a feature or functionality | `feat`
-To fix a bug or resolve issues and errors in code | `fix`
-Testing code | `test`
+Our commits are structured as follows: `(commit type): (short description)`
+- The commit type is the type of commit you are making. See the table below for the correct commit type.
+- The short description is a short description of the commit. It should be short and concise, but still descriptive enough to understand what the commit is for.
 
-For example, assume you fixed an infinite loop in a line of your team's code. Your description might read as follows:
-
-`fix: Revised an infinite loop`
+Commit Type | Purpose of Commit | Example
+--- | --- | ---
+`feat` | To add a feature or functionality | `feat: added a new button for resetting heading`
+`fix` | To fix a bug or resolve issues and errors in code |  `fix: removed an infinite loop`
+`build` | To build the program (changed files) | `build: updated the build system`
+`refactor` | To improve the structure of the code | `refactor: organized the swerve module class`
+`perf` | Resturing or organization that improves the organization of the code | `perf: improved the acceleration of the swerve module`
+`docs` | To add or update documentation | `docs: updated REV documentation `
+`chore` | Miscellanious commits such as modifying READ.md or gitignore | `chore: updated gitignore`
 
