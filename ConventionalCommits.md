@@ -10,7 +10,7 @@ Commit Type | Purpose of Commit | Example
 `fix` | To fix a bug or resolve issues and errors in code |  `fix: removed an infinite loop`
 `build` | To build the program (changed files) | `build: updated the build system`
 `refactor` | To improve the structure of the code | `refactor: organized the swerve module class`
-`perf` | Resturing or organization that improves the organization of the code | `perf: improved the acceleration of the swerve module`
+`perf` | Restructuring or organization that improves the organization of the code | `perf: improved the acceleration of the swerve module`
 `docs` | To add or update documentation | `docs: updated REV documentation `
-`chore` | Miscellanious commits such as modifying READ.md or gitignore | `chore: updated gitignore`
+`chore` | Miscellaneous commits such as modifying READ.md or gitignore | `chore: updated gitignore`
 
